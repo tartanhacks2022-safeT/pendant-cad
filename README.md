@@ -1,2 +1,2 @@
 # pendant-cad
-CAD files for the pendant
+CAD files for the necklace pendant
